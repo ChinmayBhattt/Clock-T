@@ -1,0 +1,37 @@
+      .navbar-nav .nav-item {
+        padding: 0 20px; 
+      }
+
+      .navbar-nav .nav-link {
+        font-size: 18px; 
+        font-weight: bold; 
+        color: #fff !important; 
+        transition: color 0.3s ease; 
+      }
+
+      .navbar-nav .nav-link:hover {
+        color: #f1c40f !important; 
+      }
+
+      .navbar {
+        background-color: #2c3e50; 
+      }
+
+      .container .jumbotron {
+        background-color: #ecf0f1;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      }
+
+      #countryTime {
+        background-color: #fff;
+        border-radius: 8px;
+        padding: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin-top: 20px;
+      }
+
+      #countryTime p {
+        font-size: 16px;
+      }
